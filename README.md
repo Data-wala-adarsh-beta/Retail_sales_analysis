@@ -221,7 +221,7 @@ This project serves covers basic as well as complex SQL concepts such as databas
 
 1. **Clone the Repository**: Clone this project repository from GitHub.
 2. **Set Up the Database**: Run the SQL scripts mentioned in the database setup section above to create and populate the database.
-3. **Run the Queries**: Use the SQL queries provided in the `SQL_queries_project1` file to perform your analysis.
+3. **Run the Queries**: Use the SQL queries provided in the `SQL_queries_project1` file to perform the analysis.
 
 
 
