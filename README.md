@@ -211,7 +211,7 @@ ORDER BY shift DESC;
 
 ## Conclusion
 
-This project serves covers basic as well as complex SQL concepts such as database setup, data cleaning, exploratory data analysis, and attempst to answer several business-critcial queries.
+This project covers basic as well as complex SQL concepts such as database setup, data cleaning, exploratory data analysis, and attempst to answer several business-critcial queries.
 
 ## To Verify The Queries: 
 
