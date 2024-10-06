@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is designed to demonstrate my throough understanding of SQL skills and various techniques used to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. 
+This project is designed to demonstrate my thorough understanding of SQL skills and various techniques used to explore, clean, and analyze data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. 
 
 ## Objectives
 
